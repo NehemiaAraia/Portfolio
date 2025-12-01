@@ -1,1 +1,1 @@
-View my Portfolio [Here](https://NehemiaAraia.github.io/portfolio)
+View my Portfolio [Here](https://NehemiaAraia.github.io/Portfolio)
