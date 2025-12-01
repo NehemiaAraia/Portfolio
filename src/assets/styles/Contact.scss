@@ -1,0 +1,87 @@
+.contact_wrapper svg {
+  font-size: 1em;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+.contact-form button {
+  float: right;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 10px 20px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.light-mode .send-button {
+  background-color: #5000ca;
+  color: white;
+}
+
+.light-mode .send-button:hover {
+  background-color: white;
+  color: #5000ca;
+}
+
+.dark-mode .send-button {
+  background-color: #b38b6d;
+  color: white;
+}
+
+.dark-mode .send-button:hover {
+  background-color: white;
+  color: #b38b6d;
+}
+
+label {
+  font-size: 1.2rem;
+  font-family: 'DomaineDispNar-Medium', sans-serif;
+}
+
+.form-flex {
+  display: flex;
+  gap: 15px;
+  padding-bottom: 15px;
+}
+
+.form-flex .MuiFormControl-root {
+  width: 100%;
+}
+
+form {
+  width: 100% !important;
+}
+
+.body-form {
+  width: 100% !important;
+  margin-bottom: 15px !important;
+}
+
+.send-button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.light-mode .send-button {
+  background-color: #5000ca;
+  color: white;
+}
+
+.light-mode .send-button:hover {
+  background-color: white;
+  color: #5000ca;
+}
+
+.dark-mode .send-button {
+  background-color: #b38b6d;
+  color: white;
+}
+
+.dark-mode .send-button:hover {
+  background-color: white;
+  color: #b38b6d;
+}
