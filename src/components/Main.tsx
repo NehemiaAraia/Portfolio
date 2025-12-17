@@ -19,7 +19,7 @@ function Main() {
           <h1>Nehemia Araia</h1>
 
           <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
-  <p style={{ margin: 0 }}>Aspiring Cloud Professinal</p>
+  <p style={{ margin: 0 }}>Aspiring Cloud Professional</p>
 
  <a
   href={`${process.env.PUBLIC_URL}/Resume.pdf`}
