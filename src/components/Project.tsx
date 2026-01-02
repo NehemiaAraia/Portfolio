@@ -39,8 +39,8 @@ function Project() {
             </div>
             <div className="project">
                 <a href="https://github.com/NehemiaAraia/Interactive-ML-Chat-Assistant" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/NehemiaAraia/Interactive-ML-Chat-Assistant" target="_blank" rel="noreferrer"><h2>SmartChat</h2></a>
-                <p>Developed a machine learning powered chatbot by training a neural network with TensorFlow, NLTK, custom intent datasets, tokenization, and embeddings to classify user intent and generate context-aware responses through a streamlined Python and Flask interface.</p>
+                <a href="https://github.com/NehemiaAraia/Interactive-ML-Chat-Assistant" target="_blank" rel="noreferrer"><h2>SOC Assistant</h2></a>
+                <p>Built a RAG-based SOC assistant that answers real incident response questions by retrieving and summarizing guidance from NIST, CISA, MITRE ATT&CK, and SOC playbooks, ensuring responses remain policy-aligned and reducing misinformation during active security incidents.</p>
             </div>
             <div className="project">
                 <a href="https://github.com/NehemiaAraia/AI-Driven-Cloud-Threat-Analysis-and-Compliance-Mapping" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
